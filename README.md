@@ -1,6 +1,6 @@
 # Professional Blockchain
 Professional Blockchain provides an introduction to all the relevant concepts of blockchain technology. You will get detailed insights into how blockchain works and the techniques that are used to build it. You will learn to develop decentralized applications and smart contracts using Ethereum, Solidity, Truffle, Ganache, and other relevant frameworks. Because the course provides a comprehensive knowledge of blockchain technology, it is a self-contained product that enables you to fully understand the technology.
-Professional Blockchain by **Imran Bashir**
+# Professional Blockchain by **Imran Bashir**
 ## What you will learn
 *Understand decentralization and its relationship with blockchain
 *Use cryptography to provide security services
