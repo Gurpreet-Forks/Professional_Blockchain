@@ -1,3 +1,8 @@
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Professional_Blockchain.svg)](https://github.com/TrainingByPackt/Professional_Blockchain/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Professional_Blockchain.svg)](https://github.com/TrainingByPackt/Professional_Blockchain/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Professional_Blockchain.svg)](https://github.com/TrainingByPackt/Professional_Blockchain/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Professional_Blockchain/pulls)
+
 # Professional Blockchain
 Professional Blockchain provides an introduction to all the relevant concepts of blockchain technology. You will get detailed insights into how blockchain works and the techniques that are used to build it. You will learn to develop decentralized applications and smart contracts using Ethereum, Solidity, Truffle, Ganache, and other relevant frameworks. Because the course provides a comprehensive knowledge of blockchain technology, it is a self-contained product that enables you to fully understand the technology.
 # Professional Blockchain by **Imran Bashir**
